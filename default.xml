@@ -1,0 +1,10 @@
+<manifest>
+    <remote name="origin" fetch=".."/>
+    <remote name="ckan" fetch="ssh://git@github.com/ckan"/>
+    <default remote="origin" revision="master" sync-j="1"/>
+    <project name="adx_develop" path="adx_develop"/>
+    <project name="adx_manifest" path=adx_manifest"/>
+    <project name="ckanext-unaids" path="ckanext-unaids"/>
+    <project name="ckanext-cloudstorage" path="ckanext-cloudstorage"/>
+    <project remote="ckan" name="ckan" path="ckan"/>
+</manifest>
