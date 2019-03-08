@@ -5,7 +5,8 @@
     <project name="adx_develop" path="adx_develop"/>
     <project name="adx_manifest" path="adx_manifest"/>
     <project name="ckanext-unaids" path="ckanext-unaids"/>
-    <project name="ckanext-cloudstorage" path="ckanext-cloudstorage"/>
+    <project name="ckanext-restricted" path="ckanext-restricted"/>
+    <project name="ckanext-scheming" path="ckanext-scheming" revision="validator"/>
     <project name="ckanext-validator" path="ckanext-validator"/>
     <project remote="ckan" name="ckan" path="ckan"/>
 </manifest>
