@@ -8,5 +8,9 @@
     <project name="ckanext-restricted" path="ckanext-restricted"/>
     <project name="ckanext-scheming" path="ckanext-scheming" revision="validator"/>
     <project name="ckanext-validator" path="ckanext-validator"/>
+<<<<<<< e3e13cd414adc4656e59e2ecd15d503f7be938d0
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.2"/>
+=======
+    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.2"/>/>
+>>>>>>> Fix the ckan tag
 </manifest>
