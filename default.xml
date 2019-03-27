@@ -3,7 +3,6 @@
     <remote name="ckan" fetch="ssh://git@github.com/ckan"/>
     <default remote="origin" revision="master" sync-j="1"/>
     <project name="adx_develop" path="adx_develop"/>
-    <project name="adx_manifest" path="adx_manifest"/>
     <project name="ckanext-unaids" path="ckanext-unaids"/>
     <project name="ckanext-restricted" path="ckanext-restricted"/>
     <project name="ckanext-scheming" path="ckanext-scheming" revision="validator"/>
