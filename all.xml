@@ -11,6 +11,6 @@
     <project name="ckanext-validator" path="ckanext-validator"/>
     <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
     <project name="ckanext-pages" path="ckanext-pages"/>
-    <project name="ckanext-dhis2harvester " path="ckanext-dhis2harvester"/>
+    <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.2"/>
 </manifest>
