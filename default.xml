@@ -8,6 +8,7 @@
     <project name="ckanext-scheming" path="ckanext-scheming" revision="validator"/>
     <project name="ckanext-validation" path="ckanext-validation"/>
     <project name="ckanext-validator" path="ckanext-validator"/>
+    <project name="ckanext-geoview" path="ckanext-geoview"/>
     <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
     <project name="ckanext-pages" path="ckanext-pages"/>
     <project name="ckanext-datasetversions" path="ckanext-datasetversions"/>
