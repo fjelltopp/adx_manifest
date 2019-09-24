@@ -1,19 +1,19 @@
 <manifest>
-    <remote name="origin" fetch=".."/>
-    <remote name="ckan" fetch="ssh://git@github.com/ckan"/>
-    <default remote="origin" revision="master" sync-j="1"/>
-    <project name="adx_develop" path="adx_develop"/>
-    <project name="adx_deploy" path="adx_deploy"/>
-    <project name="adx_manifest" path="adx_manifest"/>
+    <remote name="origin" fetch=".." />
+    <remote name="ckan" fetch="ssh://git@github.com/ckan" />
+    <default remote="origin" revision="development" sync-j="1"/>
+    <project name="adx_deploy" path="adx_deploy" revision="master"/>
+    <project name="adx_manifest" path="adx_manifest" revision="master"/>
+    <project name="adx_develop" path="adx_develop" revision="master"/>
     <project name="ckanext-unaids" path="ckanext-unaids"/>
     <project name="ckanext-restricted" path="ckanext-restricted"/>
-    <project name="ckanext-scheming" path="ckanext-scheming" revision="validator"/>
-    <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
-    <project name="ckanext-geoview" path="ckanext-geoview"/>
-    <project name="ckanext-pages" path="ckanext-pages"/>
-    <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
-    <project name="ckanext-issues" path="ckanext-issues"/>
+    <project name="ckanext-scheming" path="ckanext-scheming" />
     <project name="ckanext-validation" path="ckanext-validation"/>
     <project name="ckanext-validator" path="ckanext-validator"/>
+    <project name="ckanext-geoview" path="ckanext-geoview"/>
+    <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
+    <project name="ckanext-pages" path="ckanext-pages"/>
+    <project name="ckanext-issues" path="ckanext-issues"/>
+    <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.2"/>
 </manifest>
