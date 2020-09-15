@@ -20,5 +20,5 @@
     <project name="ckanext-file_uploader_ui" path="ckanext-file_uploader_ui"/>
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
 
-    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.2"/>
+    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.4"/>
 </manifest>
