@@ -19,7 +19,7 @@
     <project name="ckanext-issues" path="ckanext-issues"/>
     <project name="ckanext-file_uploader_ui" path="ckanext-file_uploader_ui"/>
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
-    <project name="ckanext-harvester" path="ckanext-harvester"/>
+    <project name="ckanext-harvest" path="ckanext-harvest"/>
 
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.4"/>
 </manifest>
