@@ -13,6 +13,7 @@
     <project name="ckanext-scheming" path="ckanext-scheming" />
     <project name="ckanext-validation" path="ckanext-validation"/>
     <project name="ckanext-geoview" path="ckanext-geoview"/>
+    <project name="ckanext-pdfview" path="ckanext-pdfview"/>
     <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
     <project name="ckanext-emailasusername" path="ckanext-emailasusername"/>
     <project name="ckanext-pages" path="ckanext-pages"/>
