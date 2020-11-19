@@ -4,7 +4,7 @@
     <default remote="origin" revision="development" sync-j="1"/>
     <project name="adx_deploy" path="adx_deploy"/>
     <project name="adx_manifest" path="adx_manifest" revision="master"/>
-    <project name="adx_develop" path="adx_develop" revision="master"/>
+    <project name="adx_develop" path="adx_develop"/>
     <project name="unaids_data_specifications" path="unaids_data_specifications"/>
     <project name="datapusher" path="datapusher" revision="master"/>
     <project name="ckanext-googleanalytics" path="ckanext-googleanalytics" revision="master"/>
