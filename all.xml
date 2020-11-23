@@ -22,5 +22,5 @@
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project name="ckanext-harvest" path="ckanext-harvest"/>
 
-    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.8.4"/>
+    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.1"/>
 </manifest>
