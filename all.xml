@@ -21,6 +21,7 @@
     <project name="ckanext-file_uploader_ui" path="ckanext-file_uploader_ui"/>
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project name="ckanext-harvest" path="ckanext-harvest"/>
-
+    <project name="ckanext-versioning" path="ckanext-versioning"/>
+    <project name="ckanext-blob-storage" path="ckanext-blob-storage"/>
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.1"/>
 </manifest>
