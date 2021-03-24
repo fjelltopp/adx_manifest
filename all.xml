@@ -7,22 +7,19 @@
     <project name="adx_develop" path="adx_develop"/>
     <project name="unaids_data_specifications" path="unaids_data_specifications"/>
     <project name="datapusher" path="datapusher" revision="master"/>
-    <project name="ckanext-googleanalytics" path="ckanext-googleanalytics" revision="master"/>
     <project name="ckanext-unaids" path="ckanext-unaids"/>
     <project name="ckanext-restricted" path="ckanext-restricted"/>
     <project name="ckanext-scheming" path="ckanext-scheming" />
     <project name="ckanext-validation" path="ckanext-validation"/>
     <project name="ckanext-geoview" path="ckanext-geoview"/>
-    <project name="ckanext-pdfview" path="ckanext-pdfview"/>
     <project name="ckanext-ytp-request" path="ckanext-ytp-request"/>
+    <project name="ckanext-pdfview" path="ckanext-pdfview"/>
     <project name="ckanext-emailasusername" path="ckanext-emailasusername"/>
     <project name="ckanext-pages" path="ckanext-pages"/>
     <project name="ckanext-issues" path="ckanext-issues"/>
     <project name="ckanext-file_uploader_ui" path="ckanext-file_uploader_ui"/>
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project name="ckanext-harvest" path="ckanext-harvest"/>
-    <project name="ckanext-versions" path="ckanext-versions"/>
-    <project name="ckanext-blob-storage" path="ckanext-blob-storage"/>
     <project name="giftless" path="giftless"/>
-    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.1"/>
+    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.2"/>
 </manifest>
