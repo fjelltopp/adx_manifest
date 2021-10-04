@@ -23,5 +23,5 @@
     <project name="ckanext-blob-storage" path="ckanext-blob-storage"/>
     <project name="ckanext-versions" path="ckanext-versions"/>
     <project name="giftless" path="giftless"/>
-    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.3"/>
+    <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.4"/>
 </manifest>
