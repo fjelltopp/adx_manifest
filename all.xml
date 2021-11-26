@@ -22,6 +22,7 @@
     <project name="ckanext-harvest" path="ckanext-harvest"/>
     <project name="ckanext-blob-storage" path="ckanext-blob-storage"/>
     <project name="ckanext-versions" path="ckanext-versions"/>
+    <project name="ckanext-auth" path="ckanext-auth"/>
     <project name="giftless" path="giftless"/>
     <project remote="ckan" name="ckan" path="ckan" revision="refs/tags/ckan-2.9.4"/>
 </manifest>
