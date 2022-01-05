@@ -16,7 +16,6 @@
     <project name="ckanext-pdfview" path="ckanext-pdfview"/>
     <project name="ckanext-emailasusername" path="ckanext-emailasusername"/>
     <project name="ckanext-pages" path="ckanext-pages"/>
-    <project name="ckanext-issues" path="ckanext-issues"/>
     <project name="ckanext-file_uploader_ui" path="ckanext-file_uploader_ui"/>
     <project name="ckanext-dhis2harvester" path="ckanext-dhis2harvester"/>
     <project name="ckanext-harvest" path="ckanext-harvest"/>
